@@ -1,5 +1,5 @@
 import express from "express";
-import webRoutes from "./routes/web";
+import webRoutes from "routes/web";
 require('dotenv').config();
 
 
